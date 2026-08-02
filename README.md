@@ -24,9 +24,9 @@ Passionate about building secure cloud infrastructure, exploring cybersecurity, 
 
 ## 🌐 Portfolio
 
-📝 **Portfolio:** https://pv-srinivas.github.io/portfolio/
+📝 **Portfolio:** https://pvsrinivas.is-a.dev/
 
-📄 **Resume & Projects:** https://pv-srinivas.github.io/portfolio/
+📄 **Resume & Projects:** https://pvsrinivas.is-a.dev/
 
 📫 **Email:** **pvsrinivas758@gmail.com**
 
